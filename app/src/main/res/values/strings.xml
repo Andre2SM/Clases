@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Clase_01</string>
+    <string name="btn_verificar">Verificar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_rechazar">Rechazar</string>
+    <string name="tv_nombre">Nombre:</string>
+    <string name="et_nombre">Nombre</string>
 </resources>
